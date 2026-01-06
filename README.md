@@ -104,5 +104,5 @@ This project is for **educational and analytical purposes only** and does not co
 
 ## 📌 Author
 **Arifa Farhath**  
-Data Science & Analytics  
+Data Science Graduate | Statistical Modeling & Machine Learning
 
